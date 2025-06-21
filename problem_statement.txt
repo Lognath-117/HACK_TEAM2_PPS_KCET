@@ -1,0 +1,26 @@
+﻿Problem Statement:
+Predict If a Person Will Switch Jobs
+Build a classification model to predict whether an individual is likely to switch jobs within the next 6 months. The model should be based on key features collected from survey responses, such as:
+* Job satisfaction level (Scale: 1 to 5)
+
+* Salary expectations
+
+* Work-life balance satisfaction
+
+* Commute time
+
+* Number of years in the current job
+
+The target variable is:
+   * 1 → Will Switch
+
+   * 0 → Will Stay
+
+Use Logistic Regression as the algorithm for this binary classification task. Evaluate the model using classification metrics such as:
+      * Accuracy
+
+      * Precision
+
+      * Recall
+
+      * F1 Score
